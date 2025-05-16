@@ -1,11 +1,42 @@
 # 💡 Flutter Interview Questions
 
-| 1 | What is Flutter? | Easy |
-| 2 | What is Dart and Why does Flutter use it? | Easy |
-| 3 | What is pubspec.yaml file and what does it do? | Easy |
-| 4 | What is the difference between main() and runApp() functions in Flutter? | Easy |
-| 5 | Differentiate between named parameters and positional parameters in Flutter. | Easy |
-| 6 | What are widgets in Flutter? | Easy |
-| 7 | What is Hot Reload and Hot Restart in Flutter? | Easy |
-| 8 | What do you mean by open-source software? Is Flutter open-source? | Easy |
-| 9 | Differentiate between StatelessWidget and StatefulWidget in Flutter. | Easy |
+1	What is Flutter?
+2	What is Dart and Why does Flutter use it?
+3	What is pubspec.yaml file and what does it do?
+4	What is the difference between main() and runApp() functions in Flutter?
+5	Differentiate between named parameters and positional parameters in Flutter.
+6	What are widgets in Flutter?
+7	What is Hot Reload and Hot Restart in Flutter?
+8	What do you mean by open-source software? Is Flutter open-source?
+9	Differentiate between StatelessWidget and StatefulWidget in Flutter.
+11	What are packages and plugins in Flutter?
+12	Name some popular apps made with Flutter.
+15	Differentiate between final, const, and static keyword.
+19	What is Fat Arrow Notation in Dart?
+20	What is the purpose of SafeArea widget in Flutter?
+25	Differentiate between mainAxisAlignment and crossAxisAlignment.
+27	What is the difference between Container and SizedBox widget?
+28	What do you mean by Null-aware operators?
+33	What is TextEditingController?
+37	What is an AspectRatio widget used for?
+40	What is assert used for in Dart and Flutter?
+47	How would you make HTTP requests in the Flutter framework?
+51	What technology is Flutter built with?
+54	What is the purpose of the initState() method in a StatefulWidget?
+55	What is the purpose of the dispose() method in a StatefulWidget?
+57	What is the difference between padding and margin in Flutter?
+58	What is the purpose of the Scaffold widget in Flutter?
+59	What is the purpose of the Expanded widget in Flutter?
+62	What is the purpose of the SingleChildScrollView widget in Flutter?
+63	What is the purpose of the Stack widget in Flutter?
+64	What is a Theme in Flutter?
+65	What is the purpose of the Visibility widget in Flutter?
+66	How do you navigate between screens in Flutter?
+67	What is a modal bottom sheet in Flutter?
+69	How do you use the Positioned widget in Flutter?
+70	How do you pass data between screens in Flutter?
+75	What is the purpose of the Navigator class in Flutter?
+77	What is the purpose of the FittedBox widget in Flutter?
+79	What is the difference between Cupertino and Material Design in Flutter?
+80	What is the purpose of the Material Design Icons package in Flutter?
+99	How do Object, dynamic, and var differ in Dart?
