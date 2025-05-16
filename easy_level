@@ -1,6 +1,11 @@
-Flutter Interview Questions  - easy level question
-1. What is Flutter? 
-2. What is Dart and Why does Flutter use it? 
-3. What is pubspec.yaml file and what does it do?
-4. What is the difference between main() and runApp() functions in Flutter?
-5. Differentiate between named parameters and positional parameters in Flutter.
+# 💡 Flutter Interview Questions
+
+| 1 | What is Flutter? | Easy |
+| 2 | What is Dart and Why does Flutter use it? | Easy |
+| 3 | What is pubspec.yaml file and what does it do? | Easy |
+| 4 | What is the difference between main() and runApp() functions in Flutter? | Easy |
+| 5 | Differentiate between named parameters and positional parameters in Flutter. | Easy |
+| 6 | What are widgets in Flutter? | Easy |
+| 7 | What is Hot Reload and Hot Restart in Flutter? | Easy |
+| 8 | What do you mean by open-source software? Is Flutter open-source? | Easy |
+| 9 | Differentiate between StatelessWidget and StatefulWidget in Flutter. | Easy |
