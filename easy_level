@@ -1,0 +1,6 @@
+Flutter Interview Questions  - easy level question
+1. What is Flutter? 
+2. What is Dart and Why does Flutter use it? 
+3. What is pubspec.yaml file and what does it do?
+4. What is the difference between main() and runApp() functions in Flutter?
+5. Differentiate between named parameters and positional parameters in Flutter.
